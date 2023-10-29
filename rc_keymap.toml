@@ -1,0 +1,15 @@
+[[protocols]]
+name = 'argon'
+protocol = 'nec'
+variant = 'nec'
+[protocols.scancodes]
+0xca = 'KEY_UP'
+0xd2 = 'KEY_DOWN'
+0x99 = 'KEY_LEFT'
+0xc1 = 'KEY_RIGHT'
+0x80 = 'KEY_VOLUMEUP'
+0x81 = 'KEY_VOLUMEDOWN'
+0xce = 'KEY_OK'
+0xcb = 'KEY_HOME'
+0x9d = 'KEY_MENU'
+0x90 = 'KEY_BACK'
